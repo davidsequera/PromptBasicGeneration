@@ -7,7 +7,6 @@ promptConfiguration:
 
   knowledgeBase:
     facts:
-      - "Default Contributor is bocadillo."
       - "All movies must be real and publicly released."
       - "Ensure the data is correct and corresponds to the official release details."
 
